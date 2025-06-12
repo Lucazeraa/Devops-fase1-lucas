@@ -1,0 +1,9 @@
+{
+  "name": "devops-fase1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Testes automatizados ainda serão implementados\" && exit 0"
+  },
+  "dependencies": {}
+}
